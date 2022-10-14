@@ -2,6 +2,15 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+
+
+/*
+
+get unique number from array. 
+e.g. list = {1,5,1,6,7,2,2,3,4,9}
+output is = [5, 6, 7, 3, 4, 9]
+
+*/
 public class unique {
 	
 	@SuppressWarnings("resource")
